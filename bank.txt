@@ -1,0 +1,4 @@
+bank.name=SBI
+bank.address=Chennai
+bank.Cname=Kunal
+bank.acctype=Savings
